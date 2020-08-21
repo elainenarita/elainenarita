@@ -7,9 +7,7 @@ Let's introduce myself...
 • I love innovation and on my all projects I do care about all the elements that make up the interface together, including layout, visual design, user experience, text and interaction. <br>
 • I'm focusing on my studies and I'll use that space to share my learning journey. 📚✨ <br><br>
 
-As all humans being I'm not just work and study, so of you want fell free to follow me on my other social media. 😎
 
-<span><i class="fab fa-twitter-square"></i><i class="fab fa-medium"></i><i class="fab fa-medium"></i><i class="fab fa-linkedin"></i></span>
 
 
 <!--
