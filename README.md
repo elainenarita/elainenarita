@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi there!! 👋🏼
 
-My name is Elaine Narita, I am a techno geek based in São Paulo, BR. I'm a Front-end Developer, with a background in Graphic Design.
-I love innovation and on my all projects I do care about all the elements that make up the interface together, including layout, visual design, user experience, text and interaction.
-And I'll use that space to share my learning journey. ⚡😄
+Let's introduce myself... 
+
+• My name is Elaine Narita, I am a techno geek based in São Paulo, BR. 👩🏻‍💻
+• I'm currently working as a Front-end Developer and I have a background in Graphic Design. 💜
+• I love innovation and on my all projects I do care about all the elements that make up the interface together, including layout, visual design, user experience, text and interaction.
+• I'm focusing on my studies and I'll use that space to share my learning journey. 📚✨
+
+As all humans being I'm not just work and study, so of you want fell free to follow me on my other social media. 😎
 
 <!--
 **elainenarita/elainenarita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
