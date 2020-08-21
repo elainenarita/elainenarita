@@ -9,6 +9,7 @@ Let's introduce myself...
 
 As all humans being I'm not just work and study, so of you want fell free to follow me on my other social media. 😎
 
+<span><i class="fab fa-twitter-square"></i><i class="fab fa-medium"></i><i class="fab fa-medium"></i><i class="fab fa-linkedin"></i></span>
 
 
 <!--
