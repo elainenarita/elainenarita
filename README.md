@@ -9,6 +9,8 @@ Let's introduce myself...
 
 As all humans being I'm not just work and study, so of you want fell free to follow me on my other social media. 😎
 
+<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
 <!--
 **elainenarita/elainenarita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
