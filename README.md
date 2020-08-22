@@ -7,10 +7,6 @@ Let's introduce myself...
 • I love innovation and on my all projects I do care about all the elements that make up the interface together, including layout, visual design, user experience, text and interaction. <br>
 • I'm focusing on my studies and I'll use that space to share my learning journey. 📚✨ <br><br>
 
-
-<img src=”images/linkedin.png” alt="linkedin" text” width=30 height=30>
-<img src=”images/twitter.png” alt=”twitter text” width=30 height=30>
-
 <!--
 **elainenarita/elainenarita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
