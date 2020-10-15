@@ -1,6 +1,4 @@
 ### Hello there!! 
-I'm here to share my code journey </👩🏻‍💻>
-
 Let's introduce myself... 
 
 • My name is Elaine Narita, I am a techno geek based in São Paulo, BR. 👩🏻‍💻 <br>
