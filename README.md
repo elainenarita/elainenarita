@@ -1,7 +1,8 @@
-### Hello there!! 
+<!-- ### Hello there!! 
 Let's introduce myself... 
 
-• My name is Elaine Narita, I am a techno geek based in São Paulo, BR. 👩🏻‍💻 <br>
+
+<!-- • My name is Elaine Narita, I am a techno geek based in São Paulo, BR. 👩🏻‍💻 <br>
 • I'm a Front-end Developer with a Design background. 💜 <br>
 • I love innovation and on my all projects I do care about all the elements that make up the interface together, including layout, visual design, user experience, text and interaction. <br>
 • I love challenges and the opportunities that it make me grow as a professional and also I always motivated to learn new things and improve my hard and soft skills.
